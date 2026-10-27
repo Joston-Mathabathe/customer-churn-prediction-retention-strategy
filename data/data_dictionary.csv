@@ -1,0 +1,23 @@
+Column,Definition
+customerID,Unique customer identifier.
+gender,Customer gender as recorded in the source dataset.
+SeniorCitizen,Indicator coded 1 for senior citizen and 0 otherwise.
+Partner,Whether the customer has a partner.
+Dependents,Whether the customer has dependents.
+tenure,Number of months the customer has stayed with the service.
+PhoneService,Whether the customer has phone service.
+MultipleLines,Whether the customer has multiple phone lines.
+InternetService,Customer internet service type.
+OnlineSecurity,Whether online security is subscribed.
+OnlineBackup,Whether online backup is subscribed.
+DeviceProtection,Whether device protection is subscribed.
+TechSupport,Whether technical support is subscribed.
+StreamingTV,Whether streaming TV is subscribed.
+StreamingMovies,Whether streaming movies is subscribed.
+Contract,Contract type.
+PaperlessBilling,Whether paperless billing is used.
+PaymentMethod,Payment method.
+MonthlyCharges,Monthly amount charged.
+TotalCharges,Total amount charged over the customer relationship.
+Churn,Whether the customer left the service.
+ChurnFlag,Binary version of churn used for modelling.

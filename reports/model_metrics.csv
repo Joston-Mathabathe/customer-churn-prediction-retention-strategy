@@ -1,0 +1,2 @@
+selected_model,test_rows,test_churn_count,holdout_roc_auc,holdout_average_precision,baseline_churn_prevalence,holdout_brier_score,threshold,precision,recall,f1,true_negative,false_positive,false_negative,true_positive,top_20pct_holdout_churn_capture,top_20pct_holdout_churn_rate
+Random Forest,1409,374,0.8412746389728487,0.6434165728719777,0.2654364797728886,0.13749945968427393,0.5,0.6460481099656358,0.5026737967914439,0.5654135338345865,932,103,186,188,0.4946524064171123,0.6560283687943262
